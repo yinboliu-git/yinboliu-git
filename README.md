@@ -1,6 +1,9 @@
 ## Brief Introduction
 
 Bachelor degree in applied statistics from Anhui Agricultural University. At present, he is a graduate student in Anhui Agricultural University, mainly engaged in machine learning, in-depth learning and bioinformatics.
+My_phone: 15903835379
+My_QQ: 371509452
+
 
 <!--
 **yinboliu-git/yinboliu-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
