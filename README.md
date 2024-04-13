@@ -2,9 +2,6 @@
 
 Bachelor degree in applied statistics from Anhui Agricultural University. At present, he is a graduate student in Anhui Agricultural University, mainly engaged in machine learning, in-depth learning and bioinformatics.
 
-My_phone & Wechat: 15903835379
-
-My_QQ: 371509452
 
 
 <!--
