@@ -1,7 +1,6 @@
 ## Brief Introduction
 
-Bachelor degree in applied statistics from Anhui Agricultural University. At present, he is a graduate student in Anhui Agricultural University, mainly engaged in machine learning, in-depth learning and bioinformatics.
-
+I graduated from Anhui Agricultural University with a Bachelor's degree in Applied Statistics. Afterwards, I chose to continue my postgraduate studies at the same university, during which I mainly conducted research focusing on machine learning, deep learning, and bioinformatics. This experience not only deepened my understanding of core statistical methods but also allowed me to accumulate practical experience in applying cutting-edge computational technologies to the field of life sciences, laying a solid foundation for my subsequent academic exploration. Currently, I am pursuing a PhD degree at Wuhan University. I plan to further integrate my previous professional accumulation in statistical analysis, machine learning, and bioinformatics to carry out more in-depth interdisciplinary research. My research direction will likely focus on the advanced application of computational methods in life science-related fields such as transcriptomics and molecular biology.
 
 
 <!--
